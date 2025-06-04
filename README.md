@@ -35,13 +35,13 @@ A simple and responsive web app that converts temperatures between Celsius, Fahr
 4. Click "Reset" to clear all fields.
 
 ## 📁 File Structure
-<pre>
+
+```plaintext
 /Temperature-Converter
 ├── index.html – HTML structure
 ├── style.css – Styles and layout
 ├── script.js – Temperature conversion logic
 └── README.md – Project documentation
-</pre>
 
 ---
 
