@@ -35,7 +35,6 @@ A simple and responsive web app that converts temperatures between Celsius, Fahr
 4. Click "Reset" to clear all fields.
 
 ## 📁 File Structure
-
 <pre> 
 /Temperature-Converter
 ├── index.html – HTML structure
