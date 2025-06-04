@@ -36,11 +36,12 @@ A simple and responsive web app that converts temperatures between Celsius, Fahr
 
 ## 📁 File Structure
 
-/Temperature-Converter
-├── index.html       (HTML structure)
-├── style.css        (Styles and layout)
-├── script.js        (Temperature conversion logic)
-└── README.md        (Project documentation)
+/Temperature-Converter  
+│  
+├── index.html         # HTML structure  
+├── style.css          # Styles and layout  
+├── script.js          # Temperature conversion logic  
+└── README.md          # Project documentation
 
 ---
 
