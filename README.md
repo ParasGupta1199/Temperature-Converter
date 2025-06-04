@@ -1,6 +1,7 @@
+```markdown
 # Temperature Converter 🔥❄️
 
-A simple and responsive web app that converts temperatures between Celsius, Fahrenheit, and Kelvin using HTML, CSS, and modern JavaScript (ES6+).
+A simple web app to convert temperatures between Celsius, Fahrenheit, and Kelvin using HTML, CSS, and JavaScript.
 
 ## 🛠️ Built With
 
@@ -49,5 +50,3 @@ A simple and responsive web app that converts temperatures between Celsius, Fahr
 
 - **Paras Gupta**
 - [GitHub](https://github.com/ParasGupta1199)
-
-
