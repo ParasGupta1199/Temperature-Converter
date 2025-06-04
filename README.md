@@ -10,7 +10,7 @@ A simple web app to convert temperatures between Celsius, Fahrenheit, and Kelvin
 
 ## 📸 Screenshot
 
-![Temperature Converter](./screenshot.png)
+![Temperature Converter](Screenshot.png)
 
 ## 🔗 Live Demo
 
