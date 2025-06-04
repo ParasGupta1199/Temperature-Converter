@@ -8,6 +8,14 @@ A simple web app to convert temperatures between Celsius, Fahrenheit, and Kelvin
 - CSS
 - JavaScript (ES6+)
 
+## 📸 Screenshot
+
+![Temperature Converter](./screenshot.png)
+
+## 🔗 Live Demo
+
+[Click here to use the Temperature Converter](https://parasgupta1199.github.io/Temperature-Converter/)
+
 ## 🚀 Features
 
 - Convert between:
@@ -19,7 +27,7 @@ A simple web app to convert temperatures between Celsius, Fahrenheit, and Kelvin
 - Clean class-based JavaScript
 - Reset button to clear form easily
 
-## 🚀 How to Use
+## 🧪 How to Use
 
 1. Choose the conversion type from the dropdown.
 2. Enter the temperature value.
@@ -28,13 +36,17 @@ A simple web app to convert temperatures between Celsius, Fahrenheit, and Kelvin
 
 ## 📁 File Structure
 
-/Temperature-Converter  
-│  
-├── index.html         # HTML structure  
-├── style.css          # Styles and layout  
-├── script.js          # Temperature conversion logic  
-└── README.md          # Project documentation
+/Temperature-Converter
+├── index.html – HTML structure
+├── style.css – Styles and layout
+├── script.js – Temperature conversion logic
+└── README.md – Project documentation
 
-## 🔗 Live Demo
+---
 
-[Click here to use the Temperature Converter](https://parasgupta1199.github.io/Temperature-Converter/)
+## 🙋‍♂️ Author
+
+- **Paras Gupta**
+- [GitHub](https://github.com/ParasGupta1199)
+
+
