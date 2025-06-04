@@ -36,7 +36,6 @@ A simple and responsive web app that converts temperatures between Celsius, Fahr
 
 ## 📁 File Structure
 
-```plaintext
 /Temperature-Converter
 ├── index.html – HTML structure
 ├── style.css – Styles and layout
