@@ -10,11 +10,11 @@ A simple web app to convert temperatures between Celsius, Fahrenheit, and Kelvin
 
 ## 📸 Screenshot
 
-![Temperature Converter](Screenshot.png)
+![Temperature Converter](/images/Screenshot.png)
 
 ## 🔗 Live Demo
 
-[Click here to use the Temperature Converter](https://parasgupta1199.github.io/Temperature-Converter/)
+[Click here to use the Temperature Converter](https://parasgupta318.github.io/Temperature-Converter/)
 
 ## 🚀 Features
 
@@ -48,4 +48,4 @@ A simple web app to convert temperatures between Celsius, Fahrenheit, and Kelvin
 ## 🙋‍♂️ Author
 
 - **Paras Gupta**
-- [GitHub](https://github.com/ParasGupta1199)
+- [GitHub](https://github.com/ParasGupta318)
