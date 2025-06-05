@@ -38,6 +38,7 @@ A simple web app to convert temperatures between Celsius, Fahrenheit, and Kelvin
 
 /Temperature-Converter  
 │  
+├── images             # Screenshot  
 ├── index.html         # HTML structure  
 ├── style.css          # Styles and layout  
 ├── script.js          # Temperature conversion logic  
